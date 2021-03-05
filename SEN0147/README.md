@@ -3,3 +3,6 @@
 [https://item.taobao.com/item.htm?spm=a1z09.2.0.0.76602e8dr7Zb7L&id=559065647898&_u=22m3sv205266](https://item.taobao.com/item.htm?spm=a1z09.2.0.0.76602e8dr7Zb7L&id=559065647898&_u=22m3sv205266)
 
 [https://blog.csdn.net/acktomas/article/details/88233559](https://blog.csdn.net/acktomas/article/details/88233559)
+
+# Demo
+![https://github.com/KaliChen/OtherSensor/blob/main/SEN0147/pictures/sen0147.JPG](https://github.com/KaliChen/OtherSensor/blob/main/SEN0147/pictures/sen0147.JPG)
