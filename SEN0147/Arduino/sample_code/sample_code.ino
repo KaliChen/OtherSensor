@@ -10,6 +10,8 @@ void setup()
 void loop()
 {
   Serial.print("Grayscale:");
+  Serial.println(digitalRead(grayscalePin));
+  /*
   if(digitalRead(grayscalePin))
   {
     Serial.println("White detected");
@@ -18,6 +20,6 @@ void loop()
   {
     Serial.println("Black detected");
   }
-   
+  */ 
   delay(500);
 }
